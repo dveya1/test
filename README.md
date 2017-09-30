@@ -1,4 +1,4 @@
 # test
 Hello
-bye
+Hi from master
 
